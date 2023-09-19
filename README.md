@@ -5,4 +5,4 @@
   <li>Fully loaded with navigations and all necessary buttons.</li>
   <li>Volume control, music-like & dislike functionalities, and searching options were implemented.</li>
 </ul>
-<img src = "https://ninjasfiles.s3.amazonaws.com/0000000000001807.png" width="50%" height="50%"></img>
+<img src = "https://ninjasfiles.s3.amazonaws.com/0000000000001807.png" width="65%" height="65%"></img>
