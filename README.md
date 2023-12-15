@@ -1,4 +1,5 @@
 # Music-Player-App
+<a href = "https://music-player-arunwebcode.netlify.app/"> Live preview link </a>
 <ul>
   <li>Simple easy and clean User-Interface.</li>
   <li>Responsive designed using Html/CSS.</li>
